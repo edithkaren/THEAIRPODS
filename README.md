@@ -25,8 +25,5 @@ This is a clone of the official [Apple AirPods Pro](https://www.apple.com/in/air
 
 ## ⭐ Author
 
-- GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
-- Behance - [@anushka_creates](https://www.behance.net/anushka_creates)
-
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
-- Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
+- GitHub - [@rudrakshpaliwal](https://github.com/edithkaren)
+- LinkedIn - [@rudraksh-paliwal](https://www.linkedin.com/in/rudraksh-paliwal-316b7818b)
